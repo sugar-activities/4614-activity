@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 94.907"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="59.svg"><metadata
+   id="metadata4014"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs4012" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1024"
+   inkscape:window-height="550"
+   id="namedview4010"
+   showgrid="false"
+   inkscape:zoom="2.4866449"
+   inkscape:cx="50"
+   inkscape:cy="47.453499"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   sodipodi:type="arc"
+   style="fill:#FFFFFF;stroke:#ffff00;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none"
+   id="path4175"
+   sodipodi:cx="50.845425"
+   sodipodi:cy="48.303154"
+   sodipodi:rx="46.608307"
+   sodipodi:ry="46.184593"
+   d="m 97.453732,48.303154 a 46.608307,46.184593 0 1 1 -93.2166142,0 46.608307,46.184593 0 1 1 93.2166142,0 z"
+   transform="matrix(1.0337773,0,0,1.0432615,-2.5628474,-0.39281646)" /><polygon
+   points="55.145,80.785 44.885,80.785 44.885,32.18 32.06,32.18 32.06,80.785 21.8,80.785 21.8,32.18 8.976,32.18 8.976,80.785 8.962,80.785 0,94.907 100,94.891 91.053,80.785 91.053,32.18 78.229,32.18 78.229,80.785 67.969,80.785 67.969,32.18 55.145,32.18 "
+   id="polygon4006"
+   transform="matrix(0.70011522,0,0,0.70011522,15.108991,11.436011)"
+   style="fill:#ffff00" />
+<polygon
+   points="97.451,26.827 49.998,0 2.549,26.827 "
+   id="polygon4008"
+   transform="matrix(0.70011522,0,0,0.70011522,15.108991,11.436011)"
+   style="fill:#ffff00" />
+</svg>
